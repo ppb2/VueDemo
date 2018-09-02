@@ -1,0 +1,12 @@
+#main{
+    color: green;
+    font-size: 80px
+}
+#logo{
+    width:100px;
+    height: 100px;
+    background-repeat: no-repeat;
+    background: url('../images/logo.png');
+    background-size: 100px 100px;
+  
+}
