@@ -1,10 +1,21 @@
 #main{
+    width: 100%;
+    height:100%;
+}
+#text{
     color: green;
-    font-size: 80px
+    font-size: 80px;
+    width:400px;
+    transform:translate(-200px,0px);
+    margin-left:50%;
+   
 }
 #logo{
     width:100px;
     height: 100px;
+    margin-left:50%;
+    margin-top: 200px;
+    transform:translate(-50px,0px);
     background-repeat: no-repeat;
     background: url('../images/logo.png');
     background-size: 100px 100px;

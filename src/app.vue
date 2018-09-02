@@ -2,7 +2,7 @@
 
     <div id="main">
         <div id ="logo"></div>
-        {{text}}
+        <div id = "text">{{text}}</div>
         
     </div>
 </template>
